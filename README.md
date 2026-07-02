@@ -22,7 +22,7 @@
 Recursos gratuitos organizados por área. *(Completa con los links específicos que quieras incluir)*
 
 ### Programación y Ciencia de Datos
-- [ ] Nombre del curso — [link]
+- [ ] Technovation Girls — [https://technovationchallenge.org/es/]
 - [ ] Nombre del curso — [link]
 
 ### Ingeniería
