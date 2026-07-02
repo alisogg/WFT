@@ -31,7 +31,7 @@ Recursos gratuitos organizados por área. *(Completa con los links específicos 
 | Beca | País/Región | Área | Nivel | Link |
 |------|-------------|------|-------|------|
 | Ada Byron | Mexico | Área STEM | Pregrado/Posgrado | https://iteso.mx/web/general/detalle?group_id=8879626 |
-
+|Becas Santander - Mujeres STEM| Mexico | Area STEM | Pre-grado | https://app.santanderopenacademy.com/es/program/becas-santander-mujeres|
 
 ---
 
