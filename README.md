@@ -9,7 +9,6 @@
 ## 📚 Tabla de contenido
 
 - [Cursos gratuitos](#-cursos-gratuitos)
-- [Guía de vocación y rutas](#-guía-de-vocación-y-rutas)
 - [Becas y financiamiento](#-becas-y-financiamiento)
 - [Comunidades y mentoría](#-comunidades-y-mentoría)
 - [Cómo contribuir](#-cómo-contribuir)
@@ -25,37 +24,13 @@ Recursos gratuitos organizados por área. *(Completa con los links específicos 
 - [ ] Nombre del curso — [link]
 - [ ] Nombre del curso — [link]
 
-### Ingeniería
-- [ ] Nombre del curso — [link]
-
-### Matemáticas y Ciencias
-- [ ] Nombre del curso — [link]
-
-### Diseño / UX / Producto
-- [ ] Nombre del curso — [link]
-
-> 💡 *Tip: agrega junto a cada curso el idioma, duración aproximada y si otorga certificado.*
 
 ---
-
-## 🧭 Guía de vocación y rutas
-
-Para quienes aún no saben por dónde empezar o quieren cambiar de rumbo dentro de STEM.
-
-- **Tests vocacionales** — herramientas para identificar afinidades e intereses.
-- **Rutas de aprendizaje (roadmaps)** — paso a paso por carrera/especialidad (ej. Data Science, Ciberseguridad, Ingeniería Civil, Biotecnología).
-- **Historias reales** — testimonios de mujeres que ya recorrieron el camino, incluyendo cambios de carrera.
-- **STEM sin título universitario** — rutas alternativas: bootcamps, certificaciones, autodidactismo.
-
----
-
 ## 💰 Becas y financiamiento
 
 | Beca | País/Región | Área | Nivel | Link |
 |------|-------------|------|-------|------|
 | Nombre | País | Área STEM | Pregrado/Posgrado | [link] |
-
-> Agrega aquí becas específicas para mujeres en STEM (gobierno, universidades, empresas tech, fundaciones).
 
 ---
 
@@ -88,7 +63,3 @@ También puedes abrir un [Issue](../../issues) si prefieres solo sugerir un recu
 Este es un espacio seguro e inclusivo. Se espera respeto, apoyo mutuo y cero tolerancia a discriminación de cualquier tipo.
 
 ---
-
-<p align="center">
-  <i>Como el kintsugi, tus grietas no te hacen menos valiosa — te hacen única.</i> ✨
-</p>
