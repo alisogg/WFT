@@ -22,6 +22,7 @@ Recursos gratuitos organizados por área. *(Completa con los links específicos 
 
 ### Programación y Ciencia de Datos
 - [ ] Objetos UNAM — [http://objetos.unam.mx/]
+- [ ] Santander Open Academy— [https://www.santanderopenacademy.com/es/sites/courses.html?utm_source=Google&utm_medium=CPC&utm_campaign=LandingIlimitados2026_Corporativo_pmax_latam_formacion&gad_source=1&gad_campaignid=23475791418&gbraid=0AAAAABR6xO-TCiBS7YSJI_K-_keojdpYV&gclid=CjwKCAjwmJjSBhB-EiwAkZgxi70XAqkcOTjZExPkQVoFio402YTWBmmkBV3sSejmY0u7JAIscz87BBoCTOQQAvD_BwE]
 
 
 ---
