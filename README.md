@@ -30,7 +30,8 @@ Recursos gratuitos organizados por área. *(Completa con los links específicos 
 
 | Beca | País/Región | Área | Nivel | Link |
 |------|-------------|------|-------|------|
-| Nombre | País | Área STEM | Pregrado/Posgrado | [link] |
+| Ada Byron | Mexico | Área STEM | Pregrado/Posgrado | https://iteso.mx/web/general/detalle?group_id=8879626 |
+
 
 ---
 
